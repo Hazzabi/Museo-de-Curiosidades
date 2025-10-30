@@ -1,7 +1,7 @@
 ¡Hola profesor! Hago entrega del primer ejercicio en la clase de lenguaje de marcas.
 Soy Gabriela Garcia Martinez de ASIR1 y esta es la vista de mi pagina, decidi entregarlo mediante github, ya que es mas facil para trasmitirle codigo.
 
-![Imagen Museo de Curiosidades](C:\Users\Gabriela Garcia\Documents\gabs\Prometeo\FP ejercicios\1_museo\FireShot Capture 001 - Museo de Curiosidades - [127.0.0.1].png)
+<img width="1358" height="2080" alt="image" src="https://github.com/user-attachments/assets/b4712b36-a6f8-40ff-8cb4-849dbd227f28" />
 
 
 
